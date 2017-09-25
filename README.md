@@ -1,8 +1,7 @@
-#j-format-string
+# j-format-string
 
 Source code and tagged source code releases. Continuation of the 
-archived [Google Code Project]
-(https://code.google.com/archive/p/j-format-string/)
+archived [Google Code Project](https://code.google.com/archive/p/j-format-string/)
 
 This code is designed to allow for compile time checking of Java format 
 strings. It can check that the format string is valid, that the proper 
